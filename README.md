@@ -68,3 +68,49 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Project Details
+
+It is a web based notes application (which is generally in every company's phone as their own software), where some of the user can store their persoanal notes using their email address and a password (if already they have an account on the app) or by signing up (for new users) to it. Here they can view, create, update and delete their notes as per their need. This project is also based on React JS and as a backend database application, MongoDB is used here. The api's are tested in thunder client. As alwats for coding aspect, JavaScript, HTML and a little bit of CSS is used.
+
+### Login page
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote1.png)
+
+### Sign Up Page
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote13.png)
+
+### Home Page
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote2.png)
+
+### Viewing Notes
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote3.png)
+
+### Adding a Note
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote4.png)
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote5.png)
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote6.png)
+
+### Editing a Note
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote7.png)
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote8.png)
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote9.png)
+
+### Deleting a Note
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote10.png)
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote11.png)
+
+### About Page
+
+![image alt](https://github.com/saptarshi-62/iNote/blob/4f11dd09eb5fd813e4172a8b806cda6048ab134d/images/inote12.png)
